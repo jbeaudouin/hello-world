@@ -1,4 +1,7 @@
 # hello-world
 =============
 
-image analysis project
+### what I will do
+
+* image analysis project
+* sequence analysis
